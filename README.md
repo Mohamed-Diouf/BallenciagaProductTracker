@@ -3,7 +3,7 @@
   HOW TO USE:
  Open https://www.balenciaga.com/en-us/women/shoes/sneakers
  Open browser console (F12 or Right-click > Inspect > Console)
- Copy and paste this entire script
+ Copy and paste the entire script in the file BallenciagaProductTracker.js 
  Press Enter
  Scroll the page to see products logged
   
@@ -17,7 +17,3 @@
   BROWSER COMPATIBILITY:
   Works in all modern browsers (Chrome, Firefox, Safari, Edge)
   
-  POSSIBLE IMPROVEMENTS:
-  Could use Intersection Observer API for better performance (modern browsers only)
-  Could add throttling/debouncing for more precise scroll handling
-  Could handle dynamically loaded products (infinite scroll) with MutationObserver
