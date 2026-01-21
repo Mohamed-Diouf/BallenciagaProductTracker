@@ -14,7 +14,7 @@
     
     // CSS selectors to find product elements on the page
     // trying to multiple the selectors because the exact structure might vary
-    const PRODUCT_SELECTOR = 'article, .product-card'; 
+    const PRODUCT_SELECTOR = 'article'; 
     
     // Products we've already logged (to avoid duplicates)
     // Using an object as a simple hash map: { "product-id": true }
