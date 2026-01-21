@@ -13,7 +13,7 @@
     // ============================================================================
     
     // CSS selectors to find product elements on the page
-    // trying to multiple the selectors because the exact structure might vary
+    //choose juste one selector that best matches the product cards on the page
     const PRODUCT_SELECTOR = 'article'; 
     
     // Products we've already logged (to avoid duplicates)
