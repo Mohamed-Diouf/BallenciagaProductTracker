@@ -169,7 +169,7 @@
             // Only log if we haven't seen this product before
             if (!hasBeenSeen(productId)) {
               // Log product to console
-              console.log(' Product:' + name + ' Price: ' + price );
+              console.log('Product: ' + name + ', Price: ' + price );
               
               // Mark as seen to avoid duplicate logs
               markAsSeen(productId);
