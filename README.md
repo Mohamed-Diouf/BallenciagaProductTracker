@@ -10,7 +10,7 @@
   HOW IT WORKS:
   When you scroll, the script checks which products are visible
   For each visible product, it extracts the name and price
-  It creates a unique ID (name + price) to track duplicates
+  It creates a unique ID (name + price + position) to track duplicates
   If the product hasn't been logged before, it logs it to console
   The product is marked as "seen" to prevent duplicate logs
   
